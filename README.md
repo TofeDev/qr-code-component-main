@@ -22,8 +22,8 @@ I have not much to say. I didn't really create a webpage with a pre-made desing 
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-efq-CjHoww)
+- Live Site URL: [Website](https://tofedev.github.io/qr-code-component-main/)
 
 ## My process
 
