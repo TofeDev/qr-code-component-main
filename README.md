@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
@@ -22,16 +21,10 @@ I have not much to say. I didn't really create a webpage with a pre-made desing 
 
 ### Links
 
-- Solution URL: [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-efq-CjHoww)
-- Live Site URL: [Website](https://tofedev.github.io/qr-code-component-main/)
+- [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-efq-CjHoww)
+- [Website](https://tofedev.github.io/qr-code-component-main/)
 
 ## My process
-
-### Built with
-
-- HTML5
-- CSS
-
 ### What I learned
 
 I learned how to center a div (such a normal thing and the basic problem for everyone) with grid/flex.
@@ -39,4 +32,3 @@ I learned how to center a div (such a normal thing and the basic problem for eve
 ## Author
 
 - Frontend Mentor - [@TofeDev](https://www.frontendmentor.io/profile/TofeDev)
-- X (Twitter) - [@Tofe_Dev](https://twitter.com/Tofe_Dev)
